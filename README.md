@@ -1,7 +1,13 @@
 # primer dia con GIt/Github
-comando para configurar el usuario y correo
+
+comando para configurar el correo
 ```bash
-git init
+
+git config --global user.email "email"
+
+comando para configurar el username
+
+git config --global user.name "username"
 
 * Para ver el estado de cambios
 
