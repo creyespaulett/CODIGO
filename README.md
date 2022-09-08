@@ -32,3 +32,8 @@ git commit -m "comentario"
 ```bash
 git log
 ```
+* para ver el estado de nuestros cambios
+
+```bashgit status
+```
+
